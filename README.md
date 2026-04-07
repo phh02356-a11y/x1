@@ -1,24 +1,27 @@
-# Solana Lucky Dragon ($LONG)
+# LIBERATION ($LIBD)
 
-![Header](https://picsum.photos/id/1015/1200/400)
+![Header Image](https://picsum.photos/id/1015/1200/400)
 
-## ✨ 什么是 Solana Lucky Dragon？
+## ✨ 什么是 LIBERATION？
 
-**$LONG** 是 Solana 链上最有运气的中国龙 meme 币。
+**LIBERATION ($LIBD)** 是 Solana 链上纪念特朗普 “Liberation Day” 关税宣言一周年 的社区 meme 币。
 
-在 Solana 的高速世界里，$LONG 代表着**Hold Long，Prosper Longer** —— 坚持长持，才能迎来真正的暴富和好运。
+2025年4月2日，那一天全球市场震动，关税风暴来临，一年后最高法院的判决让它成为现代经济史上最传奇的事件之一。
 
-他不是短线 pump，它是陪伴你走完整个周期的幸运神龙。2026 年，谁 hold $LONG，谁就 hold 住了运气。
+现在，这段历史来到了链上。  
+$LIBD 不是简单的纪念，而是把混乱、自由与传奇精神铸造成一枚币。
 
-**中国龙文化 × Solana 速度 × 顶级 meme 能量**
+**One Year Later. Still Legendary.**
+
+Built on pump.fun. Powered by chaos & freedom. 🦅
 
 ## 📊 代币信息
 
 - **链**：Solana
-- **合约地址**：`3TkhcrTfLTe4MWZUHCZCLVakvzE44jQxY5ExuMPEpump`
-- **总供应量**：1,000,000,000 $LONG
+- **合约地址**：`在这里粘贴你的合约地址`
+- **总供应量**：1,000,000,000 $LIBD
 - **流动性**：已烧毁 / 已锁定
-- **税费**：0%（已移除）
+- **税费**：0%
 - **Launch Platform**：pump.fun
 
 ## 🔗 官方链接
@@ -29,15 +32,15 @@
 - **DexScreener**： 
 - **Birdeye**： 
 
-## 📈 如何购买 $LONG？
+## 📈 如何购买 $LIBD？
 
-1. 准备 SOL 转入 Phantom / Solflare 钱包
-2. 打开 [Jupiter](https://jup.ag) 或 [Raydium](https://raydium.io)
-3. 粘贴合约地址搜索 $LONG
-4. 买入后，**Hold Long，Prosper Longer** 🐉
+1. 将 SOL 转入 Phantom 或 Solflare 钱包
+2. 前往 [Jupiter](https://jup.ag) 或 [Raydium](https://raydium.io)
+3. 搜索合约地址购买 $LIBD
+4. Hold the Liberation 🦅
 
 ---
 
-**Built on pump.fun • Powered by Luck & Solana**
+**Built on pump.fun • Powered by Solana**
 
-*免责声明：这是一个纯社区娱乐性质的 meme 币，加密货币投资有风险，请 DYOR（Do Your Own Research）。*
+*免责声明：本项目为纯社区娱乐性质的 meme 币，加密货币投资有风险，请自行做研究 (DYOR)。*
