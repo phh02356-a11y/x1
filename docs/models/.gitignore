@@ -1,0 +1,6 @@
+target/
+**/*.rs.bk
+*.swp
+.env
+models/pretrained_weights/*.bin
+node_modules/

@@ -1,0 +1,5 @@
+Model Weights Hash (SHA-256): 8f3b2c...e91a
+Current Version: v1.0.4-beta
+Training Sets: 1.4B Social Tokens
+Optimization: bfloat16 mixed precision
+Status: Loaded and Verified on Mainnet

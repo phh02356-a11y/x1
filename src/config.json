@@ -1,0 +1,5 @@
+{
+  "bonding_curve": "exponential",
+  "initial_liquidity": "1000",
+  "status": "mainnet-ready"
+}
